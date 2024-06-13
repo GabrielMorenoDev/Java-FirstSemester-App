@@ -1,0 +1,7 @@
+Instruções para abrir o projeto.
+
+----- Copie e cole no MySQL tudo que está escrito no documento de texto de nome banco.txt.
+----- Abra o projeto pelo NetBeans, o arquivo do projeto é o JFRAME.
+----- Vá em Libraries dentro do projeto do Netbeans de nome JFRAME e clique com o botão direito, lá selecione a opção ADD JAR/FOLDER.
+----- Adicione os 4 arquivos de formato .jar na parte de Libraries usando os passos acima.
+----- Dentro do projeto, no package jframe, abra a classe DBConnection e altere o usuário e a senha de acordo com a máquina.
